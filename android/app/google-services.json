@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "467774174382",
+    "firebase_url": "https://tigerxdriver-default-rtdb.firebaseio.com",
+    "project_id": "tigerxdriver",
+    "storage_bucket": "tigerxdriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467774174382:android:34d5fdcc7abeb138a6293f",
+        "android_client_info": {
+          "package_name": "com.tigerxcapital.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467774174382-r23q1u2k2md76lvhd10hqp0jan4ea9jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSEpGBd6LChSjlkxDncNftWIXJfSTW0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467774174382-r23q1u2k2md76lvhd10hqp0jan4ea9jp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467774174382-2rt2cpq2iuv4q89t152om5c3fe2l7ich.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tigerxcapital.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467774174382:android:fe495330518252a6a6293f",
+        "android_client_info": {
+          "package_name": "com.tigerxcapital.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467774174382-r23q1u2k2md76lvhd10hqp0jan4ea9jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSEpGBd6LChSjlkxDncNftWIXJfSTW0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467774174382-r23q1u2k2md76lvhd10hqp0jan4ea9jp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467774174382-2rt2cpq2iuv4q89t152om5c3fe2l7ich.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tigerxcapital.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
